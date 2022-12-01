@@ -1,4 +1,4 @@
-# Contact Management System and web whatsapp messaging system
+# Contact Management and web whatsapp messaging system
 
 
 
