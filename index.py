@@ -29,7 +29,7 @@ AGE = StringVar()
 ADDRESS = StringVar()
 CONTACT = StringVar()
 EMAIL = StringVar()
-#============================METHODS=====================================
+#============================METHODS=======================================
 url="https://web.whatsapp.com/?to="
 def messagessend():
     to= CONTACT.get
