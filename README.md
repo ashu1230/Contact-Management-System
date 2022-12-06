@@ -18,6 +18,6 @@
 </ol>
  </ul>
  
- <!--End the project-->
+ <!--End the project for some time-->
  
  
