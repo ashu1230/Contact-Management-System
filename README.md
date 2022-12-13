@@ -12,6 +12,7 @@
  <ul><h2>Installation:-</h2>
 <ol>
 <li>Python install:-<ul>On any Code editor = https://www.python.org/</ul></li>
+ 
 <li>Pip install:-<ul>pip install pip = https://pypi.org/project/pip/</ul></li>
  
 <li>TKinter install:-<ul>pip install tk = https://www.tutorialspoint.com/how-to-install-tkinter-in-python</ul></li>
