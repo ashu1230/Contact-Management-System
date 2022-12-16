@@ -24,6 +24,7 @@ root.resizable(0, 0)
 root.config(bg="#6666ff")
 
 #============================VARIABLES===================================
+
 FIRSTNAME = StringVar()
 LASTNAME = StringVar()
 GENDER = StringVar()
