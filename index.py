@@ -268,6 +268,7 @@ MidRight = Frame(Mid, width=100)
 MidRight.pack(side=RIGHT, pady=10)
 TableMargin = Frame(root, width=500)
 TableMargin.pack(side=TOP)
+
 #============================LABELS======================================
 #this is the writting of text in main screen......
 lbl_title = Label(Top, text="Contact Management & Whatsapp Messages System", font=('arial', 15),fg="White", bg="black", width=500)
