@@ -271,6 +271,7 @@ TableMargin.pack(side=TOP)
 
 #============================LABELS======================================
 #this is the writting of text in main screen......
+
 lbl_title = Label(Top, text="Contact Management & Whatsapp Messages System", font=('arial', 15),fg="White", bg="black", width=500)
 lbl_title.pack(fill=X)
 
