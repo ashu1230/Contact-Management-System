@@ -136,7 +136,8 @@ def OnSelected(event):
     ContactForm.pack(side=TOP, pady=10)
     RadioGroup = Frame(ContactForm)
     Male = Radiobutton(RadioGroup, text="Male", variable=GENDER, value="Male",  font=('arial', 14)).pack(side=LEFT)
-    Female = Radiobutton(RadioGroup, text="Female", variable=GENDER, value="Female",  font=('arial', 14)).pack(side=LEFT)   
+    Female = Radiobutton(RadioGroup, text="Female", variable=GENDER, value="Female",  font=('arial', 14)).pack(side=LEFT)  
+    
     #===================LABELS==============================
     lbl_title = Label(FormTitle, text="Updating Contacts", font=('arial', 16), bg="orange",  width = 300)
     lbl_title.pack(fill=X)
