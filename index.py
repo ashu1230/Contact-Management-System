@@ -4,7 +4,7 @@ from hashlib import new
 from tkinter import *
 import sqlite3---------------------------------------------------------------------# For the data base
 import tkinter.ttk as ttk
-import tkinter.messagebox as tkMessageBox ----------------------------------------- # For the Messagebox
+import tkinter.messagebox as tkMessageBox 
 import tkinter as tk
 import webbrowser
 from tkinter import ttk
