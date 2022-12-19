@@ -1,9 +1,10 @@
 # there are some library
+
 from hashlib import new
 from tkinter import *
 import sqlite3
 import tkinter.ttk as ttk
-import tkinter.messagebox as tkMessageBox
+import tkinter.messagebox as tkMessageBox                                   # For the Messagebox
 import tkinter as tk
 import webbrowser
 from tkinter import ttk
