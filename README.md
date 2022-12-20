@@ -12,18 +12,18 @@
 
  <ul><h2>Installation:-</h2>
 <ol>
-<li>Python install:-<ul>On any Code editor = https://www.python.org/
+<li>Python install:-<ul>>> On any Code editor = https://www.python.org/
 
 <li>Visual Studio Code:-<ul>https://code.visualstudio.com/</ul></li>
 <li>Jupyter:-<ul>https://jupyter.org/</ul></li>
 
 </ul></li>
  
-<li>Pip install:-<ul>pip install pip = https://pypi.org/project/pip/</ul></li>
+<li>Pip install:-<ul>>> pip install pip = https://pypi.org/project/pip/</ul></li>
  
-<li>TKinter install:-<ul>pip install tk = https://www.tutorialspoint.com/how-to-install-tkinter-in-python</ul></li>
+<li>TKinter install:-<ul>>> pip install tk = https://www.tutorialspoint.com/how-to-install-tkinter-in-python</ul></li>
  
-<li>Login Whatsapp:-<ul>With QR Code = https://web.whatsapp.com/</ul></li>
+<li>Login Whatsapp:-<ul>>> With QR Code = https://web.whatsapp.com/</ul></li>
 </ol>
  </ul>
  
