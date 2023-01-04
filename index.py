@@ -39,6 +39,7 @@ EMAIL = StringVar()
 #For the whatsapp msg
 
 url="https://web.whatsapp.com/?to="
+
 def messagessend():
     to= CONTACT.get
     webbrowser.open(url,to)
