@@ -37,6 +37,7 @@ EMAIL = StringVar()
 #============================METHODS=======================================
 
 #For the whatsapp msg
+
 url="https://web.whatsapp.com/?to="
 def messagessend():
     to= CONTACT.get
