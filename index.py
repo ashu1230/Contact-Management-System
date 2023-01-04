@@ -9,7 +9,6 @@ import tkinter as tk
 import webbrowser
 from tkinter import ttk
 
-
 #DEVELOPED BY:- Ashutosh Maurya
 
 root = tk.Tk()
