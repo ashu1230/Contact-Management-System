@@ -1,7 +1,6 @@
 # Contact Management and web whatsapp messaging system
 
 
-
 <ul><h2>Python:-</h2>
 
 <ol>
