@@ -135,6 +135,7 @@ def OnSelected(event):
     root.iconbitmap("E:\IMPORTENT\Contact-Management-System-In-PYTHON-master\Contact.ico")
     if 'NewWindow' in globals():
         NewWindow.destroy()
+        
     #===================FRAMES==============================
     FormTitle = Frame(UpdateWindow)
     FormTitle.pack(side=TOP)
