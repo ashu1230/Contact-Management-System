@@ -60,6 +60,7 @@ coverage.xml
 cover/
 
 # Translations
+
 *.mo
 *.pot
 
